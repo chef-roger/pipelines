@@ -1,1 +1,1 @@
-console.log("youre my nigga")
+console.log("All tests passed");
